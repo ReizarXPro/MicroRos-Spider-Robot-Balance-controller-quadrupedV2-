@@ -225,7 +225,7 @@ Feel free to submit issues and enhancement requests!
 ### Development Setup
 ```bash
 # Clone repository
-git clone https://github.com/ReizarXPro/MicroRos-Spider-Robot-Balance-controller-quadrupedV2.git
+git clone https://github.com/ReizarXPro/MicroRos-Spider-Robot-Balance-controller-quadrupedV2-
 cd quadruped_controller2
 
 # Create Python virtual environment

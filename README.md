@@ -73,6 +73,11 @@ python3 quadruped_balance_controller_pid.py
 source /opt/ros/humble/setup.bash
 python3 quadruped_gui.py
 ```
+#### GUI
+<img width="1029" height="951" alt="Screenshot from 2026-01-13 21-22-10" src="https://github.com/user-attachments/assets/da185a40-8f40-42b6-8a44-c9f0be6ada8f" />
+<img width="1029" height="951" alt="Screenshot from 2026-01-13 21-22-28" src="https://github.com/user-attachments/assets/4e6e9804-263c-47bd-be1c-ea93f893f130" />
+<img width="1029" height="951" alt="Screenshot from 2026-01-13 21-22-40" src="https://github.com/user-attachments/assets/4cf33d6a-7161-4caf-884a-caeccae5bbc7" />
+
 
 ## Configuration
 

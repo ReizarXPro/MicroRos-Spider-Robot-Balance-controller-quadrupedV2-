@@ -125,7 +125,7 @@ data[6] = temperature (°C)
 **Proportional (Kp)**:
 - Controls immediate response to error
 - Higher values = faster response, may cause oscillation
-- Start with: 1.0-3.0
+- Start with: 0.1-0.3
 
 **Integral (Ki)**:
 - Eliminates steady-state error
@@ -148,6 +148,7 @@ data[6] = temperature (°C)
 ```
 Roll PID:  Kp=2.0, Ki=0.1, Kd=0.5
 Pitch PID: Kp=2.0, Ki=0.1, Kd=0.5
+Not really!
 ```
 
 ## Troubleshooting
